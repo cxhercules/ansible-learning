@@ -6,3 +6,15 @@ hildebrando2.mylabserver.com
 
 [appserver]
 hildebrando3.mylabserver.com
+
+[aptserver]
+hildebrando1.mylabserver.com
+
+[debian]
+hildebrando1.mylabserver.com
+
+[redhat]
+localhost
+hildebrando2.mylabserver.com
+hildebrando3.mylabserver.com
+
